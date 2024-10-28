@@ -123,4 +123,3 @@ If you are interested in contributing, please follow these steps:
 ---
 
 Thank you for your interest in contributing to the Hospital Management System - Patient Module!
-```
